@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingAllPriceListFromNavToCrm", "GettingAllPriceListFromNavToCrm\GettingAllPriceListFromNavToCrm.csproj", "{0FAB8BF5-A4DF-475F-9C48-852DA9CE46A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAB8BF5-A4DF-475F-9C48-852DA9CE46A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAB8BF5-A4DF-475F-9C48-852DA9CE46A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAB8BF5-A4DF-475F-9C48-852DA9CE46A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAB8BF5-A4DF-475F-9C48-852DA9CE46A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B2A066-A61F-4DDF-BA46-14B5BE860AE9}
+	EndGlobalSection
+EndGlobal
